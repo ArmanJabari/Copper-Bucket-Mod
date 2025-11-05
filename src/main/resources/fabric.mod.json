@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "copper-bucket-mod",
+  "version": "${version}",
+  "name": "Copper Bucket Mod",
+  "description": "This mod adds copper buckets to Minecraft, giving players a fresh new vibe in their gameplay! ",
+  "authors": [
+    "Vjar"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/copper-bucket",
+    "sources": "https://github.com/ArmanJ786/copper-bucket-mod-fabric-1.21.X"
+  },
+  "license": "MIT",
+  "icon": "assets/copper-bucket-mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.armanjabari.copperbucketmod.CopperBucketMod"
+    ],
+    "fabric-datagen": [
+      "net.armanjabari.copperbucketmod.CopperBucketModDataGenerator"
+    ],
+    "client" : [
+      "net.armanjabari.copperbucketmod.CopperBucketModClient"
+    ]
+  },
+  "mixins": [
+    "copper-bucket-mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

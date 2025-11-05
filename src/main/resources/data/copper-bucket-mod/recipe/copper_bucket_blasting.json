@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 200,
+    "experience": 0.4,
+    "group" : "cream_bucket",
+    "ingredient": {
+        "item": "copper-bucket-mod:copper_bucket"
+    },
+    "result": {
+        "id" : "minecraft:copper_ingot"
+    }
+}

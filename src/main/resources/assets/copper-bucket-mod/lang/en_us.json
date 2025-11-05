@@ -1,0 +1,20 @@
+{
+
+  "item.copper-bucket-mod.copper_bucket": "Copper Bucket",
+  "item.copper-bucket-mod.milk_copper_bucket": "Milk Copper Bucket",
+  "item.copper-bucket-mod.cream_bucket": "Cream Bucket",
+  "item.copper-bucket-mod.ice_cream_bucket": "Ice Cream Bucket",
+  "item.copper-bucket-mod.chocolate_milk": "Chocolate Milk",
+  "item.copper-bucket-mod.chocolate_ice_cream": "Chocolate Ice Cream",
+  "item.copper-bucket-mod.apple_juice": "Apple Juice",
+  "item.copper-bucket-mod.apple_ice_cream": "Apple Ice Cream",
+  "item.copper-bucket-mod.carrot_juice": "Carrot Juice",
+  "item.copper-bucket-mod.carrot_ice_cream": "Carrot Ice Cream",
+  "item.copper-bucket-mod.sweet_berries_juice": "Sweet Berries Juice",
+  "item.copper-bucket-mod.sweet_berries_ice_cream": "Sweet Berries Ice Cream",
+  "item.copper-bucket-mod.melon_juice": "Melon Juice",
+  "item.copper-bucket-mod.melon_ice_cream": "Melon Ice Cream",
+  "item.copper-bucket-mod.glow_berries_juice": "Glow Berries Juice",
+  "item.copper-bucket-mod.glow_berries_ice_cream": "Glow Berries Ice Cream",
+  "itemgroup.copper-bucket-mod.copper_bucket_items" : "Copper Bucket Tab"
+}

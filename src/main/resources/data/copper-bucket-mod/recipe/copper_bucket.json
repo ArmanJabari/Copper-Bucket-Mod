@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "c c",
+        " c "
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "result": {
+        "id": "copper-bucket-mod:copper_bucket",
+        "count": 1
+    }
+}

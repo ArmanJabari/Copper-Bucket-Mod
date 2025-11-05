@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 330,
+  "experience": 0.3,
+  "group" : "cream_bucket",
+  "ingredient": {
+    "item": "copper-bucket-mod:milk_copper_bucket"
+  },
+  "result": {
+    "id" : "copper-bucket-mod:cream_bucket"
+  }
+}

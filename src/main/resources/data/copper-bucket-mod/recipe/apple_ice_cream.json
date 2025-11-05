@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:apple"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "copper-bucket-mod:ice_cream_bucket"
+    }
+  },
+  "result": {
+    "id": "copper-bucket-mod:apple_ice_cream",
+    "count": 1
+  }
+}

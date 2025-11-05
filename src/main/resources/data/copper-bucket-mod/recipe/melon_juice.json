@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:melon_slice"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "copper-bucket-mod:copper_bucket"
+    }
+  },
+  "result": {
+    "id": "copper-bucket-mod:melon_juice",
+    "count": 1
+  }
+}

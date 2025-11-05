@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/generated",
+  "textures" : {
+    "layer0": "copper-bucket-mod:item/apple_ice_cream"
+  }
+}

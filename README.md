@@ -1,10 +1,10 @@
 This mod adds `Copper Bucket` along with various `drinks` and `Ice Creams` to Minecraft, providing a fresh experience to your game.and creates a new section called `Copper Bucket Tab` in your creative inventory, making it easier to access the items.
 
-<center>
+<div align="center">
 
 ![banner](https://cdn.modrinth.com/data/cached_images/edf2f00ee52d012aa6488fa3a15e469bc7600993.png)
 
-</center>
+</div>
 
 > Each item has its own unique effect, which motivates players to go on adventures to craft them and make use of this feature in their gameplay, and each effect is tailored to the item's type.
 
